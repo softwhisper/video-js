@@ -1,3 +1,5 @@
+# PROYECTO MOVIDO A BITBUCKET: https://bitbucket.org/softwhisper/video-js
+
 VideoJS - [HTML5 Video Player](http://videojs.com)
 ==================================================
 Version 3.0 BETA
